@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Rover0927 banner">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#e6ddc9" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="#f4f1e6"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="6" fill="#6ab84a"/>
+  <rect y="294" width="1200" height="6" fill="#3f6b32"/>
+
+  <!-- left cluster -->
+  <g>
+    <polygon points="150,150 186,132 222,150 186,168" fill="#7cc85a"/>
+    <polygon points="150,150 186,168 186,204 150,186" fill="#866043"/>
+    <polygon points="222,150 186,168 186,204 222,186" fill="#6b4a33"/>
+  </g>
+  <g>
+    <polygon points="78,206 124,184 170,206 124,228" fill="#6ab84a"/>
+    <polygon points="78,206 124,228 124,274 78,252" fill="#8a6244"/>
+    <polygon points="170,206 124,228 124,274 170,252" fill="#6f4f37"/>
+  </g>
+
+  <!-- right cluster -->
+  <g>
+    <polygon points="1050,150 1086,132 1122,150 1086,168" fill="#7cc85a"/>
+    <polygon points="1050,150 1086,168 1086,204 1050,186" fill="#866043"/>
+    <polygon points="1122,150 1086,168 1086,204 1122,186" fill="#6b4a33"/>
+  </g>
+  <g>
+    <polygon points="1030,206 1076,184 1122,206 1076,228" fill="#6ab84a"/>
+    <polygon points="1030,206 1076,228 1076,274 1030,252" fill="#8a6244"/>
+    <polygon points="1122,206 1076,228 1076,274 1122,252" fill="#6f4f37"/>
+  </g>
+
+  <!-- scattered pixels -->
+  <rect x="300" y="60" width="10" height="10" fill="#c9bfa6"/>
+  <rect x="330" y="84" width="6" height="6" fill="#6ab84a"/>
+  <rect x="882" y="66" width="10" height="10" fill="#c9bfa6"/>
+  <rect x="856" y="92" width="6" height="6" fill="#6ab84a"/>
+
+  <text x="605" y="165" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="72" font-weight="bold" letter-spacing="10" fill="#d6ccb4">ROVER0927</text>
+  <text x="600" y="160" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="72" font-weight="bold" letter-spacing="10" fill="#241d16">ROVER0927</text>
+
+  <text x="600" y="206" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="17" letter-spacing="4" fill="#6b5b48">DATA SCIENCE &amp; BIG DATA · INDEPENDENT DEVELOPER</text>
+
+  <text x="600" y="240" text-anchor="middle" font-family="'Courier New', Courier, monospace" font-size="12" letter-spacing="3" fill="#3f6b32">PURE CSS 3D · MINECRAFT PIXEL UI</text>
+</svg>

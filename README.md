@@ -6,14 +6,14 @@
   <img src="./assets/banner-dark.svg" alt="Rover0927 — pixel banner" width="100%">
 </picture>
 
-**Second-year Data Science & Big Data student in China (2026)**
+**Third-year Data Science & Big Data student in China (2026)**
 *Independent developer exploring my interests.*
 
 ![Data Science](https://img.shields.io/badge/Data%20Science-3f6b32?style=for-the-badge&labelColor=1b1410)
 ![Big Data](https://img.shields.io/badge/Big%20Data-56493a?style=for-the-badge&labelColor=1b1410)
 ![Python](https://img.shields.io/badge/Python-3f6b32?style=for-the-badge&labelColor=1b1410)
 ![TypeScript](https://img.shields.io/badge/TypeScript-56493a?style=for-the-badge&labelColor=1b1410)
-![Year 2](https://img.shields.io/badge/Year%202-2026-56493a?style=for-the-badge&labelColor=1b1410)
+![Year 3](https://img.shields.io/badge/Year%203-2026-56493a?style=for-the-badge&labelColor=1b1410)
 ![China](https://img.shields.io/badge/China-56493a?style=for-the-badge&labelColor=1b1410)
 
 </div>
@@ -30,8 +30,8 @@
       <sub><b>Rover0927</b></sub>
     </td>
     <td valign="top">
-      <p>I'm Rover0927, a second-year Data Science &amp; Big Data student in China. I learn by building: small pages, tools and experiments that I can finish end to end. Most of the projects below started as a question about how something works, then grew into a demo I could actually run.</p>
-      <p>我是 Rover0927，在中国读数据科学与大数据技术，目前大二（2026）。我的学习方式是自己动手做：能独立跑通的小页面、小工具和小实验。下面这些项目大多始于一个「这东西到底怎么实现」的疑问。</p>
+      <p>I'm Rover0927, a third-year Data Science &amp; Big Data student in China. I learn by building: small pages, tools and experiments that I can finish end to end. Most of the projects below started as a question about how something works, then grew into a demo I could actually run.</p>
+      <p>我是 Rover0927，在中国读数据科学与大数据技术，目前大三（2026）。我的学习方式是自己动手做：能独立跑通的小页面、小工具和小实验。下面这些项目大多始于一个「这东西到底怎么实现」的疑问。</p>
     </td>
   </tr>
 </table>
@@ -98,7 +98,7 @@ A Minecraft-style personal homepage built from scratch: six-faced cubes in pure 
 
 ## 现在 · Currently
 
-- 大二在读，数据科学与大数据技术 · Year 2, Data Science & Big Data (2026)
+- 大三在读，数据科学与大数据技术 · Year 3, Data Science & Big Data (2026)
 - 用纯 CSS 与原生 JS 做界面实验，尽量不引入依赖 · Building UI experiments with as few dependencies as possible
 - 把重复出现的 Minecraft UI 工作沉淀成技能包 · Turning repeated Minecraft UI work into reusable skills
 - 持续探索感兴趣的方向：数据、可视化、前端 · Exploring data, visualization and front-end
